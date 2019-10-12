@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5e93ea-ead3-4609-b174-98a8e3015eaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Examples/file_meta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Examples/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/Lecture_1/.ipynb_checkpoints/w4111-L1-f2019-Introduction-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/Lecture_1/.ipynb_checkpoints/w4111-L1-f2019-Introduction-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/Lecture_1/w4111-L1-f2019-Introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/Lecture_1/w4111-L1-f2019-Introduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/customers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/employees.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/offices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/orderdetails.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/payments.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/productlines.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Data/ClassicModels/products.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,49 +20,10 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/W4111_F19_HW1$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1567863114395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CSVDataTable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-742">
-              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-              <folding>
-                <element signature="e#1#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/unit_tests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-              <folding>
-                <element signature="e#98#139#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BaseDataTable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-              <folding>
-                <element signature="e#203#238#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -72,59 +31,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/BaseDataTable.py" />
-        <option value="$PROJECT_DIR$/tests/unit_tests.py" />
-        <option value="$PROJECT_DIR$/src/CSVDataTable.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1910" />
-    <option name="height" value="1047" />
-  </component>
+  <component name="ProjectId" id="1QkDr4JM516mBKLxR9YQorwkR3b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HW1_Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW1_Template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HW1_Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW1_Template" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HW1_Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW1_Template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HW1_Template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW1_Template" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -143,7 +56,95 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.rdb-tester">
+    <configuration name="RDBTester" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W4111_F19_HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/RDBTester.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv-tester" type="PythonConfigurationType" factoryName="Python">
+      <module name="W4111_F19_HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/csv_table_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rdb-tester" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W4111_F19_HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/rdb_table_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="revenue_report_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="W4111_F19_HW1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/revenue_report_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="unit_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="W4111_F19_HW1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +169,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rdb-tester" />
         <item itemvalue="Python.unit_tests" />
+        <item itemvalue="Python.revenue_report_csv" />
+        <item itemvalue="Python.RDBTester" />
       </list>
     </recent_temporary>
   </component>
@@ -183,94 +187,37 @@
       <option name="presentableId" value="Default" />
       <updated>1567553221415</updated>
       <workItem from="1567942402543" duration="1045000" />
+      <workItem from="1568305900693" duration="958000" />
+      <workItem from="1568385453297" duration="12096000" />
+      <workItem from="1568517526878" duration="11000" />
+      <workItem from="1568592055943" duration="63786000" />
+      <workItem from="1569194202056" duration="6833000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1045000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1910" height="1047" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2345946" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34245077" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994452" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Graph Database Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Graph Database" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Data View" order="5" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/CSVDataTable.py</url>
-          <line>54</line>
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HW1_Template$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1567943361058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Data/Baseball/People.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="50" lean-forward="true" selection-end-line="19618" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseDataTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-          <folding>
-            <element signature="e#203#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/unit_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#98#139#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CSVDataTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-742">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-          <folding>
-            <element signature="e#1#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/HW1_Template$revenue_report_csv.coverage" NAME="revenue_report_csv Coverage Results" MODIFIED="1569126601987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HW1_Template$CSVDataTable.coverage" NAME="CSVDataTable Coverage Results" MODIFIED="1568386961501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HW1_Template$unit_tests.coverage" NAME="unit_tests Coverage Results" MODIFIED="1569127260270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/HW1_Template$SQLHelper.coverage" NAME="SQLHelper Coverage Results" MODIFIED="1568772527023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HW1_Template$csv_tester.coverage" NAME="csv-tester Coverage Results" MODIFIED="1569202501031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/HW1_Template$RDBTester.coverage" NAME="RDBTester Coverage Results" MODIFIED="1569104706338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/HW1_Template$rdb_tester.coverage" NAME="rdb-tester Coverage Results" MODIFIED="1569204132771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
   </component>
 </project>
